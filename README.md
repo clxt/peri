@@ -1,6 +1,4 @@
-Compte-rendu Projet Peri  
-Mendy Alexandre  
-Faure Calixte  
+Projet Peri
 
 # Arduino
 ![arduino](./img/bal.png)
